@@ -4,7 +4,7 @@
             "outputFile": "/home/avihs/Desktop/android/new work/GamePoint/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/home/avihs/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/ead42bdd666cf3d7ab20527431da37cb/res/values-land/values-land.xml",
+                    "source": "/home/avihs/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/007365f1ddccb373457fae3323b06d22/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/home/avihs/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/0b413583f1d44bd562ffe48cf5c6f35d/res/values-land/values-land.xml",
+                    "source": "/home/avihs/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/1ebf4459aa7435c2422c3f512fc9e279/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",
