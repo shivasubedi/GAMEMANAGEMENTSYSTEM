@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "254032522853",
+    "firebase_url": "https://gamepoint-f8dfd.firebaseio.com",
+    "project_id": "gamepoint-f8dfd",
+    "storage_bucket": "gamepoint-f8dfd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:254032522853:android:18a2299bdbc84e97",
+        "android_client_info": {
+          "package_name": "com.gamepoint"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "254032522853-b7devk1ductqm5bf5h6s0kd0o84gc2r0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gamepoint",
+            "certificate_hash": "c2ced85f1d24157b92577047f805e07715ff03dc"
+          }
+        },
+        {
+          "client_id": "254032522853-j52qjq7qket08f6cnnqea0nn17dekd91.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxiITMa39Cj7bUs1gv2YR5gYIztCHujxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "254032522853-j52qjq7qket08f6cnnqea0nn17dekd91.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
