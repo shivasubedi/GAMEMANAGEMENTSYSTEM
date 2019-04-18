@@ -3,7 +3,7 @@ package com.gamepoint;
 import java.util.Date;
 
 /**
- * Created by reale on 18/11/2016.
+ * Created by android studio
  */
 
 public class ChatMessage {
